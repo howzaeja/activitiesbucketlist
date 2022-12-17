@@ -1,0 +1,78 @@
+#navbar {
+    width: 100%;
+    background-color: rgba(135, 206, 250, 0.89);
+    padding: 10px;
+}
+
+#navlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 50px;
+}
+
+.page-link {
+    float: left;
+    display: block;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+h1,
+h2,
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    color: white;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+}
+
+a {
+    color: white;
+}
+
+#header {
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgba(135, 206, 250, 0.596);
+}
+
+.section {
+    width: 100%;
+    padding: 20px;
+    padding-top: 5px;
+}
+
+#water {
+    background-color: rgba(135, 206, 250, 0.89);
+}
+
+#air {
+    background-color: rgba(135, 206, 250, 0.596);
+}
+
+#land {
+    background-color: rgba(135, 206, 250, 0.89);
+}
+
+footer {
+    background-color: rgba(135, 206, 250, 0.596);
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+
